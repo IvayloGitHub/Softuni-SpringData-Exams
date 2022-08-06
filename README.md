@@ -1,1 +1,1 @@
-# Softuni-SpringData
+# Softuni-SpringData-Solved-Exams
